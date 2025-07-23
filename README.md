@@ -2,5 +2,6 @@
 
 ## 2D RPG
 
-Using Godot
-https://edjaydev.github.io/test1/
+A 2D top-down RPG where you can explore vast pixelated worlds, complete quests, defeat enemies using swords and items that are hidden beneath the secrets of each biomes.
+
+link: https://edjaydev.github.io/test1/
